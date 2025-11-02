@@ -3,3 +3,4 @@ numpy
 streamlit
 flask
 matplotlib
+transformers torch
